@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-28 23:30:19.640519"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Create a PDF and send it for review",
+      "importance_rank": 1,
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "In an authoring application such as Adobe InDesign, choose File > Print. Select Adobe",
+      "importance_rank": 2,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Add or edit lists",
+      "importance_rank": 3,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "1. Open the PDF in Acrobat. From the upper left, select All Tools > Organize pag",
+      "importance_rank": 4,
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Export",
+      "importance_rank": 5,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "The Edit panel includes options to modify the page, add content, redact a PDF, and convert various documents to PDF forms. You can use the options in the Edit panel to replace, edit, or add text to a PDF. You can correct typos, change fonts and typeface size, adjust alignment, add superscripts or subscripts, and resize text or paragraphs.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Export You can save your changes to an Adobe PDF or PDF Portfolio in the original PDF or in a copy of the PDF. You can also save individual PDFs to other file formats, including text, XML, HTML, and Microsoft Word.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Copy images Use the Select tool to copy and paste individual images from a PDF to the clipboard, another application, or a file.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "2. Right-click the image and select copy. Once done, you can paste it to a new file or a clipboard.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Select Acrobat in the upper-left (macOS) or Menu in the upper-left (Windows), then select Preferences. Under Categories, Select General. Then select the Make Select tool select images before text.",
+      "page_number": 1
+    }
+  ]
+}
