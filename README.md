@@ -17,11 +17,6 @@ The solution must:
 
 ## 🐳 Dockerization Strategy
 
-### 🔧 Dockerfile Highlights
-- Uses `python:3.10-slim` base image
-- Pre-installs `sentence-transformers`, `PyMuPDF`, and `scikit-learn`
-- Preloads and caches model at **build time** so runtime has no downloads
-
 ### 🧪 Build
 ```bash
 docker build -t adobe-hackathon-pipeline .
